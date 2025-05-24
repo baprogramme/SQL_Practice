@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./assets/banner.png" width="80%" alt="SQL Interview Practice Banner">
+  <img src="Banner.png.png" width="80%" alt="SQL Interview Practice Banner">
 </p>
 
 # 🧠 SQL Interview Practice by @baprogramme
